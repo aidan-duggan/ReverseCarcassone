@@ -1,8 +1,8 @@
 ### Components
 
-1 (2?) deck of play cards
-1 deck of skill cards
-state tracking cards
+* 1 (2?) deck of play cards
+* 1 deck of skill cards
+* state tracking cards
 
 #### Anatomy of Play Card
 Each card consists of a number of sections. There are two types attack and defense.

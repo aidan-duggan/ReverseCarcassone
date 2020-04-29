@@ -1,1 +1,3 @@
 # RugbyCardGame
+
+[Rules](/rules.md)

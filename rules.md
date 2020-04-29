@@ -16,6 +16,9 @@ Attack Play Card:
 * Preferred following suit
 * Success benefit table
 
+<img src="RugbyPlayCardExample.png" alt="rugbyPlayCardExample" width="400"/>
+
+
 Defense Play Card:
 * (??? Some form of previous players next players system)
 * The players involved

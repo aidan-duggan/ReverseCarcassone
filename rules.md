@@ -68,4 +68,12 @@ Defense Examples:
 
 ### Play
 
+Phases of Play
+* Open play
+* lineouts
+* scrums
+* penalties
+* free kicks ???
+* kick offs
+
 ### Winning

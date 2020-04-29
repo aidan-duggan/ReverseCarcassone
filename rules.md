@@ -58,10 +58,9 @@ Defense Examples:
 
 #### State Tracking Cards
 
-1 score tracking card
-1 field position tracking card
-1 current phase & territory change tracking card
-1 time remaining tracking card
+* 1 score and field position tracking card
+* 1 current phase & territory change tracking card
+* 1 time remaining tracking card
 
 ### Setup 
 

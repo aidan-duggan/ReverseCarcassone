@@ -1,3 +1,5 @@
+# Rugby Card Game Rules
+
 ### Components
 
 * 1 (2?) deck of play cards

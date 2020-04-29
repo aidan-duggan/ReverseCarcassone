@@ -28,8 +28,9 @@ Defense half consists of:
 * (??? A symbol that repsents the risk of a knock on or a penalty)
 
 Defense Examples:
-* Blitz, ???
-* Push, Pillars???
+* Blitz, Low & High ???
+* Push, Pillars 1,2,3
+* Swiper, ???
 
 <img src="rugbySkillCardExample1.png" alt="rugbySkillCardExample" width="400"/>
 

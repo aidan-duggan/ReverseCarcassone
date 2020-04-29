@@ -2,15 +2,28 @@
 
 1 (2?) deck of play cards
 1 deck of skill cards
-4 state tracking cards
+state tracking cards
 
 #### Anatomy of Play Card
 Each card consists of a number of sections. There are two types attack and defense.
 
-Attack Play Cards:
-* required players on previous play
+Attack Play Card:
+* (??? Some form of previous players next players system)
 * The players involved
+* Skill being used
+* Starting Skill value
+* Card draw provided
+* Preferred following suit
+* Success benefit table
 
+Defense Play Card:
+* (??? Some form of previous players next players system)
+* The players involved
+* Skill being used
+* Starting Skill value
+* Card draw provided
+* Preferred following suit
+* Success benefit table
 
 #### Anatomy of Skill Card
 
@@ -44,7 +57,7 @@ Defense Examples:
 
 1 score tracking card
 1 field position tracking card
-1 phase tracking card
+1 current phase & territory change tracking card
 1 time remaining tracking card
 
 ### Setup 

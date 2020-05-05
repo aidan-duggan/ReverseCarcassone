@@ -119,6 +119,8 @@ TODO determine odds of this.
 #### Tracking Time
 After a fixed period of time, the next set piece that is not from a penalth ends the half, and play restarts 
 
-
+TODO figure out time tracking.
 
 ### Winning
+
+The game ends after 2 halfs are played, with the team with the most points winning.

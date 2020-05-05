@@ -85,6 +85,7 @@ _Steps of a Play_
 * If they do the attacker can do also once.
 * Resolve the play card.
 * If the play brings the attack over the try line and possession has not changed, a try is scored and the team awarded 7 points.
+* TODO determine how skill cards come back to the player.
 
 _Resolve Play Card_
 

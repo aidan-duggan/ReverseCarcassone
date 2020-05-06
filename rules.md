@@ -12,9 +12,6 @@ Each card consists of a number of sections.
 Attack Play Card:
 * The No. of players involved and the type (Forwards, Backs or a Mix)
 * Skill being used
-* Starting Skill value ???
-* Card draw provided ???
-* Preferred following suit
 * Result table
 
 <img src="RugbyPlayCardExample.png" alt="rugbyPlayCardExample" width="400"/>
@@ -56,25 +53,28 @@ Each side must do the following:
 
 ### Game Setup 
 
-Shuffle the play and skills deck.
+Shuffle the Play and Skills deck.
 
 Layout the tracking cards and place counters on the starting positions.
 
 Determine who will be the first attacking player.
 
-Setup a Reset Set Piece.
+Setup a Kickoff Set Piece on the half way line.
 
 ### Set Piece Setup
 
-There are 3 types of Set Pieces, Reset/Kickoff, Lineout & Scrum.
+There are 3 types of Set Pieces; Reset/Kickoff, Lineout & Scrum.
 
-At the start of each set piece, create the team decks. Do this by drawing 6 backs cards from the backs skills deck and 8 forwards cards from the forwards skills deck for each player. This is the collection of cards each team will have until the next set piece. Then place the appropriate number of skill cards listed on the Set Piece card in the tied up deck.
+At the start of each set piece, create each teams decks. 
+* Draw 6 backs cards from the backs skills deck.
+* Draw 8 forwards cards from the forwards skills deck. 
+* Place the appropriate number of skill cards listed on the Set Piece card in the tied up deck.
 
 The attack player draws X play cards.
 
 ### Play
 
-Play is made of a collection of phases between set pieces. In each phase the attacker chooses a play card, then both players use their skill cards to determine the level of success or failure of the play. This pattern is repeated until either the attacker scores, possesion changes hands, or a new set piece occurs.
+Playing is made of a collection of phases between set pieces. In each phase the attacker chooses a play card, then both players use their skill cards to determine the level of success or failure of the play. This pattern is repeated until either the attacker scores, possesion changes hands, or a new set piece occurs.
 
 _Steps of a Play_
 * Attacker chooses a play card that they have the player to do.
@@ -86,10 +86,12 @@ _Steps of a Play_
 * Resolve the play card.
 * If the play brings the attack over the try line and possession has not changed, a try is scored and the team awarded 7 points.
 * TODO determine how skill cards come back to the player.
+* Attacker draws a new Play card.
+* Attacker continues playing Play cards until there is a score or change in possession.
 
 _Resolve Play Card_
 
-Resolve the play card, by comparing the skill on the play card against the matching skill on the played skill cards. Skill cards that don't match the player type of play card are worth half.
+Resolve the Play card, by comparing the skill on the Play card against the matching skill on the played Skill cards. Skill cards that don't match the player type of play card are worth half.
 
 * Sum the value of the matching skill for attackers and defenders.
   * Half if the player type doesn't match.
@@ -101,7 +103,7 @@ Resolve the play card, by comparing the skill on the play card against the match
 _Resolve if a penalty or knock on has occurred_
 When trying to beat a defender, smashing an attacker, or pull off a complex move, sometimes things go too far. The player can knock the ball on, or give away a penalty. 
 
-When you see the (P ???) symbol there is a chase that possession will switch with either a knock on, penalty or the ball going into touch. 
+When you see the (P ???) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 
 
 TODO some determination of the odds of this happening.
 
@@ -117,8 +119,11 @@ _Shot at Goals_
 
 TODO determine odds of this.
 
+Success giving the attacking team 3 points. Play restarts with a Kickoff on the halfway line.
+Failure leads to a Kickoff on the defenders 22 line.
+
 #### Tracking Time
-After a fixed period of time, the next set piece that is not from a penalth ends the half, and play restarts 
+After a fixed period of time, the next set piece that is not from a penalth ends the half. Play restarts with a kick off on the half way line with the opposite team that started the game kicking off.
 
 TODO figure out time tracking.
 

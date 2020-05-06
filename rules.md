@@ -43,7 +43,7 @@ Defense half to be determined, for now they will be the same as attack.
 * 1 time remaining tracking card
 * Set piece cards
 
-* Set Piece Cards *
+_Set Piece Cards_
 These cards outline the starting position of the teams at a Set Piece.
 
 Each side must do the following:

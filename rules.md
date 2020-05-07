@@ -2,8 +2,9 @@
 
 ### Components
 
-* 1 deck of play cards
-* 2 deck of skill cards
+* 1 deck of Play cards
+* 2 decks of Skill cards, forwards and backs
+* 1 Set Piece deck of card
 * state tracking cards
 
 #### Anatomy of Play Card
@@ -25,8 +26,7 @@ Each card is in two halves. Attack and Defense.
 Attack half consists of:
 * Player: Back or Forward
 * Type: Pass, Run or Special 
-* Value: numbers 2 - 4 (to be ironed out)
-* (??? A symbol that repsents the risk of a knock on or a penalty)
+* Value: numbers 2 - 4
 
 Attack Examples:
 * Long Pass, Pop Pass
@@ -37,19 +37,20 @@ Defense half to be determined, for now they will be the same as attack.
 
 <img src="rugbySkillCardExample1.png" alt="rugbySkillCardExample" width="400"/>
 
+#### Set Piece Cards
+Set Pieces are Kick offs, Line outs and Scrums. They are used to restart play in certain situations.
+
+These cards outline the starting position of the teams at a Set Piece.
+
+Each side must do the following:
+* Scrum - 6/8 Forwards are put in the tied up pile
+* Lineout - 4/6/8 Forwards are put in the tied up pile
+* Kickoff/Reset - No players are put in the tied up pile.
+
 #### State Tracking Cards
 
 * 1 score and field position tracking card
 * 1 time remaining tracking card
-* Set piece cards
-
-_Set Piece Cards_
-These cards outline the starting position of the teams at a Set Piece.
-
-Each side must do the following:
-* Scrum - 6 Forwards are put in the tied up pile
-* Lineout - 4/6/8 Forwards are put in the tied up pile
-* Kickoff/Reset - No players are put in the tied up pile.
 
 ### Game Setup 
 
@@ -69,8 +70,7 @@ At the start of each set piece, create each teams decks.
 * Draw 6 backs cards from the backs skills deck.
 * Draw 8 forwards cards from the forwards skills deck. 
 * Place the appropriate number of skill cards listed on the Set Piece card in the tied up deck.
-
-The attack player draws X play cards.
+* Draw the number of Play cards listed
 
 ### Play
 
@@ -117,16 +117,14 @@ Possession always switches to whoever was on the lossing side of the skill check
 
 _Shot at Goals_
 
-TODO determine odds of this.
+The attacker draws two Skill cards and sums the Special values. The target to beat is 3 + the distance from the try line.
 
 Success giving the attacking team 3 points. Play restarts with a Kickoff on the halfway line.
 Failure leads to a Kickoff on the defenders 22 line.
 
 #### Tracking Time
-After a fixed period of time, the next set piece that is not from a penalth ends the half. Play restarts with a kick off on the half way line with the opposite team that started the game kicking off.
-
-TODO figure out time tracking.
-
+Each half will consist of 30 phases.The half ends after the next set piece that doesnt come from a penalty.
+The next half restarts with a kick off on the half way line with the opposite team that started the game kicking off.
 ### Winning
 
 The game ends after 2 halfs are played, with the team with the most points winning.

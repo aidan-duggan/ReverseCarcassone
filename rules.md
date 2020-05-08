@@ -85,8 +85,10 @@ Playing is made of a collection of phases between set pieces. In each phase the 
 
 _Steps of a Play_
 * Attacker chooses a play card that they have the player to do.
+ * If the attacker doesn't have enough players, they immediately give away a penalty.
 * Attacker tells the defender how many players and what type they are.
 * Defender chooses skill cards of the matching type and number.
+ * If the defender can't play enough cards they must play what they have.
 * Reveal the play card and each sides skill cards.
 * The defender can draw one random card from their remaining cards.
 * If they do the attacker can do also once.

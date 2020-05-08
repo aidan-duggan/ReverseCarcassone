@@ -7,6 +7,13 @@
 * 1 Set Piece deck of card
 * state tracking cards
 
+### Iconography
+
+Cards: Skill, Play, Stats, Set Piece
+Skills: Run, Pass, Special (R, P, S)
+Set Pieces: Kickoff, Lineout, Knock on (Ki, L, Kn)
+Others: Penalty, Ruck (P, R)
+
 #### Anatomy of Play Card
 Each card consists of a number of sections. 
 
@@ -97,15 +104,19 @@ Resolve the Play card, by comparing the skill on the Play card against the match
   * Half if the player type doesn't match.
 * Check against the play cards result table
   * Move the ball marker forward or backwards on the territory tracker the stated amount.
+  * A big win / big loss is when the amount is equal or greater then the number of cards that side played.
   * If a set piece icon appears, then the play ends and a new play begins with defender now the attacker. Start with the shown set piece.
-  * Resolve if a penalty or knock on has occurred.
+  * Resolve if a penalty, knock on or ball in touch has occurred.
 
-_Resolve if a penalty or knock on has occurred_
+_Penalty, knock on or ball in touch_
 When trying to beat a defender, smashing an attacker, or pull off a complex move, sometimes things go too far. The player can knock the ball on, or give away a penalty. 
 
 When you see the (P ???) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 
 
 TODO some determination of the odds of this happening.
+* chance of penalty
+* chance of lineout
+* chance of knockon
 
 Possession always switches to whoever was on the lossing side of the skill check. So too strong an attack can lead to the defender wining the ball for example.
 * For knock on, play restarts with a scrum set piece.

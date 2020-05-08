@@ -9,10 +9,10 @@
 
 ### Iconography
 
-Cards: Skill, Play, Stats, Set Piece
-Skills: Run, Pass, Special (R, P, S)
-Set Pieces: Kickoff, Lineout, Knock on (Ki, L, Kn)
-Others: Penalty, Ruck (P, R)
+* Cards: Skill, Play, Stats, Set Piece
+* Skills: Run, Pass, Special (R, P, S)
+* Set Pieces: Kickoff, Lineout, Knock on (Ki, L, Kn)
+* Others: Penalty, Ruck (P, R)
 
 #### Anatomy of Play Card
 Each card consists of a number of sections. 

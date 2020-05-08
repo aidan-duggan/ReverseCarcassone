@@ -76,7 +76,7 @@ There are 3 types of Set Pieces; Reset/Kickoff, Lineout & Scrum.
 At the start of each set piece, create each teams decks. 
 * Draw 6 backs cards from the backs skills deck.
 * Draw 8 forwards cards from the forwards skills deck. 
-* Place the appropriate number of skill cards listed on the Set Piece card in the tied up deck.
+* Wihtout looking at them, place the appropriate number of skill cards listed on the Set Piece card in the tied up deck.
 * Draw the number of Play cards listed
 
 ### Play
@@ -92,7 +92,8 @@ _Steps of a Play_
 * If they do the attacker can do also once.
 * Resolve the play card.
 * If the play brings the attack over the try line and possession has not changed, a try is scored and the team awarded 7 points.
-* TODO determine how skill cards come back to the player.
+* Return the number of skill cards listed on the Play card,based on what is depicted take from the top or bottom of the tied up deck.
+* Place the played Skill cards in the tied up pile.
 * Attacker draws a new Play card.
 * Attacker continues playing Play cards until there is a score or change in possession.
 
@@ -113,10 +114,12 @@ When trying to beat a defender, smashing an attacker, or pull off a complex move
 
 When you see the (P ???) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 
 
-TODO some determination of the odds of this happening.
-* chance of penalty
-* chance of lineout
-* chance of knockon
+For each symbol draw from the shared skill card deck that number of cards.
+The symbols are resolved in this order:
+1. Penalty
+2. Knock On
+3. Ball in Touch
+The highest one present is what happens.
 
 Possession always switches to whoever was on the lossing side of the skill check. So too strong an attack can lead to the defender wining the ball for example.
 * For knock on, play restarts with a scrum set piece.

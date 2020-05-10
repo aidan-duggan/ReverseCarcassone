@@ -5,7 +5,7 @@
 * 1 deck of Play cards
 * 2 decks of Skill cards, forwards and backs
 * 1 Set Piece deck of card
-* state tracking cards
+* State tracking cards
 
 ### Iconography
 
@@ -22,7 +22,7 @@ Attack Play Card:
 * Skill being used
 * Result table
 
-<img src="RugbyPlayCardExample.png" alt="rugbyPlayCardExample" width="400"/>
+<img src="playcards.png" alt="rugbyPlayCardExample" width="400"/>
 
 #### Anatomy of Skill Card
 
@@ -42,7 +42,7 @@ Attack Examples:
 
 Defense half to be determined, for now they will be the same as attack.
 
-<img src="rugbySkillCardExample1.png" alt="rugbySkillCardExample" width="400"/>
+<img src="skillCards.png" alt="rugbySkillCardExample" width="400"/>
 
 #### Set Piece Cards
 Set Pieces are Kick offs, Line outs and Scrums. They are used to restart play in certain situations.
@@ -56,8 +56,10 @@ Each side must do the following:
 
 #### State Tracking Cards
 
-* 1 score and field position tracking card
-* 1 time remaining tracking card
+* 2 player boards, with score and area for back, forward and tied up deck.
+* 1 field board, with time remaining and field position.
+
+<img src="StateCards.png" alt="rugbyStateCardsExample" width="400"/>
 
 ### Game Setup 
 
@@ -114,7 +116,7 @@ Resolve the Play card, by comparing the skill on the Play card against the match
 _Penalty, knock on or ball in touch_
 When trying to beat a defender, smashing an attacker, or pull off a complex move, sometimes things go too far. The player can knock the ball on, or give away a penalty. 
 
-When you see the (P ???) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 
+When you see the (P) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 
 
 For each symbol draw from the shared skill card deck that number of cards.
 The symbols are resolved in this order:
@@ -141,6 +143,7 @@ Failure leads to a Kickoff on the defenders 22 line.
 #### Tracking Time
 Each half will consist of 30 phases.The half ends after the next set piece that doesnt come from a penalty.
 The next half restarts with a kick off on the half way line with the opposite team that started the game kicking off.
+
 ### Winning
 
 The game ends after 2 halfs are played, with the team with the most points winning.

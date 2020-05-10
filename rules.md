@@ -4,8 +4,7 @@
 
 * 1 deck of Play cards
 * 2 decks of Skill cards, forwards and backs
-* 1 Set Piece deck of card
-* State tracking cards
+* Assorted State tracking cards
 
 ### Iconography
 
@@ -44,8 +43,13 @@ Defense half to be determined, for now they will be the same as attack.
 
 <img src="skillCards.png" alt="rugbySkillCardExample" width="400"/>
 
-#### Set Piece Cards
-Set Pieces are Kick offs, Line outs and Scrums. They are used to restart play in certain situations.
+#### State Tracking Cards
+
+* 2 player boards, with score and area for back, forward and tied up deck.
+* 1 field board, with time remaining and field position.
+* 3 Set Piece cards, Kick offs, Line outs and Scrums. They are used to restart play in certain situations.
+
+#### Anatomy of a Set Piece Card
 
 These cards outline the starting position of the teams at a Set Piece.
 
@@ -54,10 +58,6 @@ Each side must do the following:
 * Lineout - 4/6/8 Forwards are put in the tied up pile
 * Kickoff/Reset - No players are put in the tied up pile.
 
-#### State Tracking Cards
-
-* 2 player boards, with score and area for back, forward and tied up deck.
-* 1 field board, with time remaining and field position.
 
 <img src="StateCards.png" alt="rugbyStateCardsExample" width="400"/>
 
@@ -114,6 +114,7 @@ Resolve the Play card, by comparing the skill on the Play card against the match
   * Resolve if a penalty, knock on or ball in touch has occurred.
 
 _Penalty, knock on or ball in touch_
+
 When trying to beat a defender, smashing an attacker, or pull off a complex move, sometimes things go too far. The player can knock the ball on, or give away a penalty. 
 
 When you see the (P) symbol there is a chance that possession will switch with either a knock on, penalty or the ball going into touch. 

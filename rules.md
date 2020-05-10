@@ -3,8 +3,17 @@
 ### Components
 
 * 1 deck of Play cards
+ * 4 sets of 6 = 24
 * 2 decks of Skill cards, forwards and backs
+ * 4 sets of 8 forwards = 32
+ * 4 sets of 6 backs = 24
 * Assorted State tracking cards
+ * 1 time remaining and position cards
+ * 2 player cards
+ * 3 set piece cards
+ 
+ 80 game cards
+ 6 stats cards
 
 ### Iconography
 

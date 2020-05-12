@@ -1,4 +1,4 @@
-Play Test 1:
+Play Test 1 12/5 rules:https://github.com/aidan-duggan/RugbyCardGame/tree/v0.1 :
 
 * Too many 4s?
 * Pick up cards from tied down too often?

@@ -12,12 +12,12 @@
 
 #### Action Dice
 Action dice have 6 sides.
-1. Place a token
+1. Energy
 2. rotate tile left
 3. rotate tile right
-4. swap two tiles
-5. Energy 
-6. Place a token
+4. rotate 180
+5. swap two tiles
+6. Place a token 
 
 #### Tiles
 
@@ -48,7 +48,18 @@ Turn over the outer 3 by 3 grid
 In reverse player order, each player places another one of their pieces in the center of these grids.
 
 Turn over the remaining tiles in the center.
+
 #### Play
+
+Each turn the active player rolls the dice, and may perform the actions rolls.
+
+They may re-roll the first roll once, choosing which dice to reroll.
+They can pay 1 energy to re-roll one dice.
+
+#### Actions:
+
+Energy: Gain one energy
+Rotate Left/Right/180: rotate a tile that is touching a tile with one of your tokens on it. 
 
 #### Winning
 

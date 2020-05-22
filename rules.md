@@ -63,7 +63,7 @@ They can pay 1 energy to re-roll one dice.
 **Swap tiles:** swap two tiles that are touching tiles you control, maintaining their orientation.  
 **Place a token:** Place on of your control tokens on a tile that is touching a tile you control and which do not break tile control rules.  
 
-_Tile Control Rules_
+_Tile Control Rules_  
 Features on tiles that are touching and controlled by the same player must line up. (carcassone rules but only for the controling player).
 
 #### Scoring

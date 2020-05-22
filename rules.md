@@ -2,7 +2,7 @@
 
 ### Components
 
-81 Tiles
+81 Tiles (carcassone tiles)
 21 x 4 player tokens
 3 action d6
 
@@ -59,7 +59,17 @@ They can pay 1 energy to re-roll one dice.
 #### Actions:
 
 Energy: Gain one energy
-Rotate Left/Right/180: rotate a tile that is touching a tile with one of your tokens on it. 
+Rotate Left/Right/180: Rotate a tile, that is touching a tile you control, the shown direction.
+Swap tiles: swap two tiles that are touching tiles you control, maintaining their orientation.
+Place a token: Place on of your control tokens on a tile that is touching a tile you control and which do not break tile control rules.
 
-#### Winning
+_Tile Control Rules_
+Features on tiles that are touching and controlled by the same player must line up. (carcassone rules but only for the controling player).
+
+#### Scoring
+
+Each player scores their tiles using carcassone rules (no farms). Where features are completed across multiple players, each player scorse for the whole feature, not just the parts they control.
+
+The winners is the person with the most points.
+
 

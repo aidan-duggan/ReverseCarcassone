@@ -1,3 +1,3 @@
-# Game Name
+# ReverseCarcassonne
 
 [Rules](/rules.md)

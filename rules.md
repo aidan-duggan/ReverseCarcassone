@@ -1,4 +1,4 @@
-# Game Name Rules
+# ReverseCarcassonne
 
 ### Components
 
